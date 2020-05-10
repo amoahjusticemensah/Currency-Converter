@@ -1,0 +1,4 @@
+#Sun May 10 03:46:03 GMT 2020
+base.0=/home/justice/projects/programs/android/Currency-Converter-master/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
